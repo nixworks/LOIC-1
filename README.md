@@ -8,6 +8,3 @@ Attempting to use an outrageous amount of threads will crash the application. A 
 
 ### Warning
 Using this application against the law may lead to consequences. LOIC Responsibly. The developer assumes no responsibility for your actions.
-
-### Download
-Google Play: https://play.google.com/store/apps/details?id=genius.mohammad.loic
